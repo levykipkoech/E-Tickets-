@@ -49,7 +49,7 @@ Inside the browser open the console where the content will display when you clic
 
 ## links
 
-                [github pages](https://levykipkoech.github.io/E-Tickets-/)
+                 https://levykipkoech.github.io/E-Tickets-/
 
 ## Authors 
 Levy 
