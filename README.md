@@ -30,7 +30,7 @@ To use this repo on your machine requires some simple steps
         code .
 
 - (Alternate Option) Open it in any editor of your choice.
-# RUNNING THE TESTS 
+## RUNNING THE TESTS 
 
 In the text editor you will need to run the following commands to install the necessary dependencies
 
@@ -45,7 +45,11 @@ click enter then run the following command
 
 
 After the dependences have been installed open the content in the browser of your choice.
-Inside the browser open the console where the content will display when you click the buttons on the page.      
+Inside the browser open the console where the content will display when you click the buttons on the page. 
+
+## links
+
+                https://levykipkoech.github.io/E-Tickets-/
 
 ## Authors 
 Levy 
