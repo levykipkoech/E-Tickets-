@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
      }
      else {
        t++
-       films.tickets_sold.innerText =`Tickets sold ${t}` 
+       films.tickets_sold.innerHTML =`Tickets sold ${t}` 
      }
    })
     }
