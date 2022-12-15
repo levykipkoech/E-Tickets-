@@ -1,9 +1,30 @@
-/* #container {
-    background-color: rgb(178, 63, 63);
-    margin-top: 54px;
-     
-    text-align:left
-} */
-h3{
-     text-align: center;
+.header{
+    text-align: center;
+  border: 3px solid green;
+  background-color: #6a3016;
+  
 }
+.container {
+    background-color: rgb(192, 183, 216);
+    margin-top: 54px;
+    display: flex;          
+}
+#menu{
+
+  background-color: #736056;
+  color: rgb(190, 162, 162);
+  padding: 14px 25px;
+  margin-top: 15px;
+  color: aliceblue;
+
+}
+.card{
+    
+    text-align: center;
+    display: flex;
+    float: left;
+}
+ #img{
+    max-width: 200px ;
+    max-height: 200px ;
+ }
